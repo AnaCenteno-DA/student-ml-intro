@@ -33,7 +33,7 @@ The goal of this project was to do a project and compare three ML models across 
 ## ✅ Key Results
 
 - [Example: The model reached an accuracy of 82% on the test data.]
-- Identified main factors influencing [target variable].
+- Identified main factors influencing target variables on each dataset.
 
 ---
 
@@ -47,7 +47,7 @@ The goal of this project was to do a project and compare three ML models across 
 
 ## 📫 Contact
 
-If you’d like to learn more, connect with me on [LinkedIn]([your-linkedin](https://www.linkedin.com/in/ana-centeno-baltazar/).
+If you’d like to learn more, connect with me on [LinkedIn](https://www.linkedin.com/in/ana-centeno-baltazar/).
 
 ---
 
