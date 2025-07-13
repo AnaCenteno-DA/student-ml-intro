@@ -1,5 +1,5 @@
 ##
-# 🧩 Student Machine Learning Project — [Project Title]
+# 🧩 Student Machine Learning Project — Models Comparison
 
 This project was completed as part of my *AEC in Business Intelligence and Visualization Analysis* program.  
 It applies basic Machine Learning techniques to solve a real-world inspired problem, using Python and scikit-learn.
@@ -8,14 +8,14 @@ It applies basic Machine Learning techniques to solve a real-world inspired prob
 
 ## 📌 Objective
 
-The goal of this project was to [predict/classify X — e.g., classify customer churn / predict house prices] using historical data.
+The goal of this project was to do a project and compare three ML models across two datasets to evaluate performance and select the best performing algorithm.
 
 ---
 
 ## ⚙️ Tools & Technologies
 
 - Python (Pandas, scikit-learn, NumPy, Matplotlib)
-- Jupyter Notebook
+- Colab Notebook
 
 ---
 
@@ -24,8 +24,8 @@ The goal of this project was to [predict/classify X — e.g., classify customer 
 - Collected and cleaned the dataset.
 - Explored and visualized key variables.
 - Applied feature engineering to prepare the data.
-- Built and trained a [model type, e.g., logistic regression/classification/regression tree].
-- Evaluated the model using [accuracy, confusion matrix, RMSE, etc.].
+- Built and trained a : Logistic Regression, Decision Tree, and Random Forest.
+- Evaluated the model using : Accuracy, precision, F1 Score, recall and Confusion Matrix
 - Interpreted results and presented findings.
 
 ---
@@ -47,7 +47,7 @@ The goal of this project was to [predict/classify X — e.g., classify customer 
 
 ## 📫 Contact
 
-If you’d like to learn more, connect with me on [LinkedIn](your-linkedin).
+If you’d like to learn more, connect with me on [LinkedIn]([your-linkedin](https://www.linkedin.com/in/ana-centeno-baltazar/).
 
 ---
 
